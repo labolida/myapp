@@ -1,0 +1,6 @@
+This is just a test.
+I am studing how to use the GIT (distributed version control).
+
+This file has the following version:
+
+Version-2011/11/09-09:23
